@@ -1,0 +1,26 @@
+{
+  "name": "dosti",
+  "version": "1.0.0",
+  "description": "Our first indian social media platform. Where you can connect your friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KapilKumar2002/Dosti.git"
+  },
+  "keywords": [
+    "Server",
+    "Dosti",
+    "Social",
+    "Media",
+    "friends"
+  ],
+  "author": "Kavis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KapilKumar2002/Dosti/issues"
+  },
+  "homepage": "https://github.com/KapilKumar2002/Dosti#readme"
+}
